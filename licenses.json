@@ -1,4 +1,6 @@
 {
-  "blocked_hwids": [],
+  "blocked_hwids": [
+    "3DC37995-2B55-4214-AA0F-635344D55651"
+  ],
   "active_keys": {}
 }
