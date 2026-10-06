@@ -2,5 +2,12 @@
   "blocked_hwids": [
     "3DC37995-2B55-4214-AA0F-635344D55651"
   ],
-  "active_keys": {}
+  "active_keys": {
+    "3DC37995-2B55-4214-AA0F-635344D55651": {
+      "key": "M0RDMzc5OTUtMkI1NS00MjE0LUFBMEYtNjM1MzQ0RDU1NjUxfDIwMjYtMTEtMDV8MzFjYWY0YmQ2Mg==",
+      "expire_date": "2026-11-05",
+      "days": 30,
+      "created_at": "2026-10-06 21:19:52"
+    }
+  }
 }
