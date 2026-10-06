@@ -1,6 +1,6 @@
 {
-  "latest_version": "3.3.4",
-  "download_url": "https://github.com/neakhos77-art/jtools-update/releases/download/v3.0/J-Tools.V2.2.2-Pro.exe",
+  "latest_version": "5.3.4",
   "force_update": true,
-  "changelog": "- ជួសជុលបញ្ហាគាំងសំឡេង\n- Update ទៅជំនាន់ថ្មី V3.3.4 Pro"
+  "download_url": "https://github.com/neakhos77-art/jtools-updatev/releases/download/v5.33/J-Tools.exe",
+  "changelog": "- កែសម្រួល UI ថ្មីស្អាត\n- បង្កើនល្បឿនដំណើរការ\n- ជួសជុលបញ្ហាលោត CMD"
 }
