@@ -1,1 +1,10 @@
-
+{
+  "rev": "2026-10-13",
+  "trusted_client_token": "6A5AA1D4EAFF4E9FB37E23D68491D6F4",
+  "chromium_version": "143.0.3650.75",
+  "sec_ms_gec_version": "",
+  "base_url": "",
+  "origin": "",
+  "user_agent": "",
+  "proxy": ""
+}
